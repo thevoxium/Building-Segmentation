@@ -45,10 +45,10 @@ It has 6 folder each specifiying image name. Each folder contains 6 images.
 
 ### Code Files Details
 
-`CycleGan_pytorch.py` : Cycle Gan model training using Pytorch
-`cyclegan_predict.py` : Cycle Gan model prediction using Pytorch
-`U_ResUnet_pytorch.py` : Unet and Resunet model using Pytorch
-`Predict_U_resunet_pytorch.py` : Unet and Resunet dcgan model prediction using Pytorch
-`ResUnetGan_Wasserstein_loss.py` : Resunet dcgan model using wasserstein loss using Pytorch
-`unet_resunet_train_keras.py` : Unet and Resunet segmentation using Keras
-`unet_resunet_predict_keras.py` : Unet and Resunet segmentation using Keras
+* `CycleGan_pytorch.py` : Cycle Gan model training using Pytorch
+* `cyclegan_predict.py` : Cycle Gan model prediction using Pytorch
+* `U_ResUnet_pytorch.py` : Unet and Resunet model using Pytorch
+* `Predict_U_resunet_pytorch.py` : Unet and Resunet dcgan model prediction using Pytorch
+* `ResUnetGan_Wasserstein_loss.py` : Resunet dcgan model using wasserstein loss using Pytorch
+* `unet_resunet_train_keras.py` : Unet and Resunet segmentation using Keras
+* `unet_resunet_predict_keras.py` : Unet and Resunet segmentation using Keras
